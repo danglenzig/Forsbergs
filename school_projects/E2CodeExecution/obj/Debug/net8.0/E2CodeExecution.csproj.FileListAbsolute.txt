@@ -1,0 +1,15 @@
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\bin\Debug\net8.0\E2CodeExecution.exe
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\bin\Debug\net8.0\E2CodeExecution.deps.json
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\bin\Debug\net8.0\E2CodeExecution.runtimeconfig.json
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\bin\Debug\net8.0\E2CodeExecution.dll
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\bin\Debug\net8.0\E2CodeExecution.pdb
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.AssemblyInfoInputs.cache
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.AssemblyInfo.cs
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.csproj.CoreCompileInputs.cache
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.sourcelink.json
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.dll
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\refint\E2CodeExecution.dll
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.pdb
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\E2CodeExecution.genruntimeconfig.cache
+C:\SchoolProjectRepos\Forsbergs\school_projects\E2CodeExecution\obj\Debug\net8.0\ref\E2CodeExecution.dll
