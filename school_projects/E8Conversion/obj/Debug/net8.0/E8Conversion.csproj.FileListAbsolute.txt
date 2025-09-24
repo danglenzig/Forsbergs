@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\bin\Debug\net8.0\E8Conversion.exe
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\bin\Debug\net8.0\E8Conversion.deps.json
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\bin\Debug\net8.0\E8Conversion.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\bin\Debug\net8.0\E8Conversion.dll
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\bin\Debug\net8.0\E8Conversion.pdb
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.dll
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\refint\E8Conversion.dll
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.pdb
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\E8Conversion.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects\E8Conversion\obj\Debug\net8.0\ref\E8Conversion.dll
