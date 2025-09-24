@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\bin\Debug\net8.0\Hypotenuse.exe
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\bin\Debug\net8.0\Hypotenuse.deps.json
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\bin\Debug\net8.0\Hypotenuse.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\bin\Debug\net8.0\Hypotenuse.dll
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\bin\Debug\net8.0\Hypotenuse.pdb
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.dll
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\refint\Hypotenuse.dll
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.pdb
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\Hypotenuse.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Hypotenuse\obj\Debug\net8.0\ref\Hypotenuse.dll

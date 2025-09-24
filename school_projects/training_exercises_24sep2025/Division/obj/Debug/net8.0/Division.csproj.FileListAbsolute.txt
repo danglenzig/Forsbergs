@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\bin\Debug\net8.0\Division.exe
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\bin\Debug\net8.0\Division.deps.json
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\bin\Debug\net8.0\Division.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\bin\Debug\net8.0\Division.dll
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\bin\Debug\net8.0\Division.pdb
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.dll
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\refint\Division.dll
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.pdb
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\Division.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects\training_exercises_24sep2025\Division\obj\Debug\net8.0\ref\Division.dll
