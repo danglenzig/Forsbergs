@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\bin\Debug\net8.0\E13_1_GoTo.exe
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\bin\Debug\net8.0\E13_1_GoTo.deps.json
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\bin\Debug\net8.0\E13_1_GoTo.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\bin\Debug\net8.0\E13_1_GoTo.dll
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\bin\Debug\net8.0\E13_1_GoTo.pdb
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.dll
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\refint\E13_1_GoTo.dll
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.pdb
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\E13_1_GoTo.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects\E13_1_GoTo\obj\Debug\net8.0\ref\E13_1_GoTo.dll
