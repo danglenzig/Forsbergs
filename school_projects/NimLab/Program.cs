@@ -131,6 +131,9 @@ else
             case 3:
                 matchesChosenThisTurn = 2;
                 break;
+            case 4:
+                matchesChosenThisTurn = 3;
+                break;
 
             // Otherwise, randomly chose 1, 2, or 3 matches
             default:

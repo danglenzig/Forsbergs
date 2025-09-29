@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NimLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d3f3f4a4e03e92eedd5ae6d2189446bbcb36fe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aaf75b4ed103986eeeaeba587c6ef23f6d927b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NimLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NimLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
