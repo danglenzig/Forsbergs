@@ -13,11 +13,13 @@ int turnsPlayed = 0;
 Console.WriteLine("Welcome to Nim!\n");
 
 /*
+ 
 Difficulty...
 0 (easy): CPU choices are totally random, and it might commit an own goal
-1 (normal): CPU will make a winning choice in the end game scenario
+1 (normal): CPU will make a winning choice in the end game scenario, otherwise random
 2 (hard): CPU makes game-theoretically optimal choices
- */
+
+*/
 Console.Write("Choose CPU difficulty: 0 (easy), 1 (normal), 2 (hard) -> ");
 int cpuDifficulty = Convert.ToInt32(Console.ReadLine());
 
@@ -61,6 +63,9 @@ switch (coinFlip == whoFirstInt)
         Console.WriteLine("CPU goes first.\n");
         break;
 }
+
+//
+isPlayerTurn = false;
 
 // Turn loop
 StartNextTurn:
