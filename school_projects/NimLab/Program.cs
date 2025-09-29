@@ -3,6 +3,7 @@
 
 const int NumberOfMatches = 24;
 
+
 Random random = new Random();
 bool isPlayerTurn = true;
 int matchesRemaining = NumberOfMatches;
@@ -11,8 +12,17 @@ int turnsPlayed = 0;
 
 Console.WriteLine("Welcome to Nim!\n");
 
+/*
+Difficulty...
+0 (easy): CPU choices are totally random, and it might commit an own goal
+1 (normal): CPU will make a winning choice in the end game scenario
+2 (hard): CPU makes game-theoretically optimal choices
+ */
+Console.Write("Choose CPU difficulty: 0 (easy), 1 (normal), 2 (hard) -> ");
+int cpuDifficulty = Convert.ToInt32(Console.ReadLine());
+
 // Decide who goes first
-Console.Write("Let's decide who goes first.\nChose heads (0) or tails (1): ");
+Console.Write("Let's decide who goes first.\nChose: 0 (heads), or 1 (tails) ->  ");
 int whoFirstInt = Convert.ToInt32(Console.ReadLine());
 
 switch (whoFirstInt <= 0)
@@ -68,7 +78,7 @@ else
 }
 
 // Print the remaining matches
-Console.WriteLine("Remaining matches\n");
+Console.WriteLine("Remaining matches: " + matchesRemaining + "\n");
 string matchesString = "";
 for (int i = 0; i < matchesRemaining; i++)
 {
@@ -95,7 +105,9 @@ if (matchesRemaining <= 1)
     {
         Console.WriteLine("You win!");
     }
+    goto ThanksForPlaying;
 }
+
 
 else
 {
@@ -116,37 +128,108 @@ else
         {
             choice = 3;
         }
+            
+        
         matchesChosenThisTurn = choice;
         Console.WriteLine("Player removes " + matchesChosenThisTurn + " matches\n");
     }
     else
     {
         // CPU turn
-        switch (matchesRemaining)
-        {
-            // handle endgame scenarios
-            case 2:
-                matchesChosenThisTurn = 1;
-                break;
-            case 3:
-                matchesChosenThisTurn = 2;
-                break;
-            case 4:
-                matchesChosenThisTurn = 3;
-                break;
 
-            // Otherwise, randomly chose 1, 2, or 3 matches
-            default:
-                int aRando = random.Next(1,4);
+        switch (cpuDifficulty)
+        {
+            case 0: // easy
+            {
+                int aRando = -1;
+                if (matchesRemaining > 3)
+                {
+                    aRando = random.Next(1,4);
+                }
+                else
+                {
+                    aRando = random.Next(1, matchesRemaining - 1);
+                }
                 matchesChosenThisTurn = aRando;
                 break;
+            }
+
+            case 1: // normal
+            {
+                switch (matchesRemaining)
+                {
+                    // handle endgame scenarios
+                    case 2:
+                        matchesChosenThisTurn = 1;
+                        break;
+                    case 3:
+                        matchesChosenThisTurn = 2;
+                        break;
+                    case 4:
+                        matchesChosenThisTurn = 3;
+                        break;
+
+                    // Otherwise, randomly chose 1, 2, or 3 matches
+                    default:
+                        int aRando = random.Next(1,4);
+                        matchesChosenThisTurn = aRando;
+                        break;
+                }
+                break;
+            }
+            case 2: // hard
+            {
+                int modResult = matchesRemaining % 4;
+                switch (modResult)
+                {
+                    case 0:
+                        matchesChosenThisTurn = 3;
+                        break;
+                    case 1:
+                        matchesChosenThisTurn = 3;
+                        break;
+                    case 2:
+                        matchesChosenThisTurn = 1;
+                        break;
+                    case 3:
+                        matchesChosenThisTurn = 2;
+                        break;
+                }
+                break;
+            }
         }
         Console.WriteLine("CPU removes " + matchesChosenThisTurn + " matches\n");
     }
+    
     // update the game area
     matchesRemaining -= matchesChosenThisTurn;
+    
+    // this executes if the player or CPU takes the last
+    // match on thier turn (an "own goal" scenario)
+    if (matchesRemaining <= 0)
+    {
+        if (isPlayerTurn)
+        {
+            Console.WriteLine("Player loses by own goal!");
+        }
+        else
+        {
+            Console.WriteLine("CPU loses by own goal!");
+        }
+        goto ThanksForPlaying;
+    }
+    
     // toggle the turn value
     isPlayerTurn = !isPlayerTurn;
     
     goto StartNextTurn;
 }
+
+ThanksForPlaying:
+Console.WriteLine("Thanks for playing!");
+
+
+
+
+
+
