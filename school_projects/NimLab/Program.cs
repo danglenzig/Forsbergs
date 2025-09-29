@@ -64,8 +64,6 @@ switch (coinFlip == whoFirstInt)
         break;
 }
 
-//
-isPlayerTurn = false;
 
 // Turn loop
 StartNextTurn:
