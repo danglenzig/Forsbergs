@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week2_E1Scopes/1.0.0": {
+        "runtime": {
+          "Week2_E1Scopes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week2_E1Scopes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
