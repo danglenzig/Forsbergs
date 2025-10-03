@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\bin\Debug\net8.0\Week2_E5_4_Square.exe
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\bin\Debug\net8.0\Week2_E5_4_Square.deps.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\bin\Debug\net8.0\Week2_E5_4_Square.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\bin\Debug\net8.0\Week2_E5_4_Square.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\bin\Debug\net8.0\Week2_E5_4_Square.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\refint\Week2_E5_4_Square.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\Week2_E5_4_Square.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_4_Square\obj\Debug\net8.0\ref\Week2_E5_4_Square.dll

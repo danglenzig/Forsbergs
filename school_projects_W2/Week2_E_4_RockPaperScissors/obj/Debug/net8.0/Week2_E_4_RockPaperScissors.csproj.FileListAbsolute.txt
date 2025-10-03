@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\bin\Debug\net8.0\Week2_E_4_RockPaperScissors.exe
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\bin\Debug\net8.0\Week2_E_4_RockPaperScissors.deps.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\bin\Debug\net8.0\Week2_E_4_RockPaperScissors.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\bin\Debug\net8.0\Week2_E_4_RockPaperScissors.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\bin\Debug\net8.0\Week2_E_4_RockPaperScissors.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\refint\Week2_E_4_RockPaperScissors.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\Week2_E_4_RockPaperScissors.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E_4_RockPaperScissors\obj\Debug\net8.0\ref\Week2_E_4_RockPaperScissors.dll

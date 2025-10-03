@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\bin\Debug\net8.0\Week2_E5_3_Cubical.exe
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\bin\Debug\net8.0\Week2_E5_3_Cubical.deps.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\bin\Debug\net8.0\Week2_E5_3_Cubical.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\bin\Debug\net8.0\Week2_E5_3_Cubical.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\bin\Debug\net8.0\Week2_E5_3_Cubical.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\refint\Week2_E5_3_Cubical.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\Week2_E5_3_Cubical.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week2_E5_3_Cubical\obj\Debug\net8.0\ref\Week2_E5_3_Cubical.dll
