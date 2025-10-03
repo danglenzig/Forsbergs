@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\bin\Debug\net8.0\Week_2_E_10_7_NoSpace.exe
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\bin\Debug\net8.0\Week_2_E_10_7_NoSpace.deps.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\bin\Debug\net8.0\Week_2_E_10_7_NoSpace.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\bin\Debug\net8.0\Week_2_E_10_7_NoSpace.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\bin\Debug\net8.0\Week_2_E_10_7_NoSpace.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\refint\Week_2_E_10_7_NoSpace.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\Week_2_E_10_7_NoSpace.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_7_NoSpace\obj\Debug\net8.0\ref\Week_2_E_10_7_NoSpace.dll

@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\bin\Debug\net8.0\Week_2_E_10_6_ReplaceWord.exe
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\bin\Debug\net8.0\Week_2_E_10_6_ReplaceWord.deps.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\bin\Debug\net8.0\Week_2_E_10_6_ReplaceWord.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\bin\Debug\net8.0\Week_2_E_10_6_ReplaceWord.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\bin\Debug\net8.0\Week_2_E_10_6_ReplaceWord.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.sourcelink.json
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\refint\Week_2_E_10_6_ReplaceWord.dll
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.pdb
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\Week_2_E_10_6_ReplaceWord.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\school_projects_W2\Week_2_E_10_6_ReplaceWord\obj\Debug\net8.0\ref\Week_2_E_10_6_ReplaceWord.dll
