@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\bin\Debug\net8.0\AfterRiderReinstall.exe
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\bin\Debug\net8.0\AfterRiderReinstall.deps.json
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\bin\Debug\net8.0\AfterRiderReinstall.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\bin\Debug\net8.0\AfterRiderReinstall.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\bin\Debug\net8.0\AfterRiderReinstall.pdb
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.sourcelink.json
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\refint\AfterRiderReinstall.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.pdb
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\AfterRiderReinstall.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\AfterRiderReinstall\obj\Debug\net8.0\ref\AfterRiderReinstall.dll
