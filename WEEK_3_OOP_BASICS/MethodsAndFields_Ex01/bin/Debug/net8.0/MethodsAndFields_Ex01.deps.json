@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodsAndFields_Ex01/1.0.0": {
+        "runtime": {
+          "MethodsAndFields_Ex01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodsAndFields_Ex01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
