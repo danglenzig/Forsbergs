@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\bin\Debug\net8.0\TryingAgain.exe
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\bin\Debug\net8.0\TryingAgain.deps.json
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\bin\Debug\net8.0\TryingAgain.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\bin\Debug\net8.0\TryingAgain.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\bin\Debug\net8.0\TryingAgain.pdb
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.sourcelink.json
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\refint\TryingAgain.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.pdb
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\TryingAgain.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_UNITY\TryingAgain\obj\Debug\net8.0\ref\TryingAgain.dll
