@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\bin\Debug\net8.0\Interfaces_Ex01.exe
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\bin\Debug\net8.0\Interfaces_Ex01.deps.json
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\bin\Debug\net8.0\Interfaces_Ex01.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\bin\Debug\net8.0\Interfaces_Ex01.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\bin\Debug\net8.0\Interfaces_Ex01.pdb
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.sourcelink.json
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\refint\Interfaces_Ex01.dll
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.pdb
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\Interfaces_Ex01.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\WEEK_3_OOP_BASICS\Interfaces_Ex01\obj\Debug\net8.0\ref\Interfaces_Ex01.dll
