@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Lesson02_GameObjectsAndComponents/OptionalExercise/Moving.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
