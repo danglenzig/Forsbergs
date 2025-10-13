@@ -64,6 +64,7 @@
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\ColorChangingCube.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\Mover.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\Spinner.cs" />
+    <Compile Include="Assets\Lesson02_GameObjectsAndComponents\OptionalExercise\Oscillator.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\OptionalExercise\ParameterizedMover.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\DynamicInteractionCube.cs" />
   </ItemGroup>
