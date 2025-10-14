@@ -35,11 +35,25 @@ namespace GameObjectsAndComponents
             {
                 Period = 0.05f;
             }
+
+            if (WaveType == EnumWaveType.SQUARE)
+            {
+                float startValue = (Amplitude * 0.5f) + Ground;
+                CurrentValue = startValue;
+            }
+
         }
 
         // Update is called once per frame
         void Update()
         {
+
+            Period = Mathf.Abs(Period);
+            if (Period <= 0)
+            {
+                Period = 0.05f;
+            }
+
             switch (WaveType)
             {
                 case EnumWaveType.SINE:
