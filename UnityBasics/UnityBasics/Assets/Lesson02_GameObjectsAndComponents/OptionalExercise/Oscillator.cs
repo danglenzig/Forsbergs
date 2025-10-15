@@ -123,7 +123,33 @@ namespace GameObjectsAndComponents
             return CurrentValue;
         }
 
+        public FOOO GetAFOO()
+        {
 
+            FOOO newFOOO = new FOOO(1, 1, 1);
+            return newFOOO;
+
+        }
+
+
+    }
+
+    public class FOOO
+    {
+
+        int health;
+        int age;
+        int level;
+
+        public FOOO(int _health, int _age)
+        {
+
+        }
+
+        public FOOO(int _age, int _healtfh, int _level)
+        {
+
+        }
     }
 }
 

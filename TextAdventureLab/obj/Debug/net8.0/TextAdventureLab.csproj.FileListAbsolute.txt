@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\TextAdventureLab\bin\Debug\net8.0\TextAdventureLab.exe
+C:\SchoolRepos\Forsbergs\TextAdventureLab\bin\Debug\net8.0\TextAdventureLab.deps.json
+C:\SchoolRepos\Forsbergs\TextAdventureLab\bin\Debug\net8.0\TextAdventureLab.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\TextAdventureLab\bin\Debug\net8.0\TextAdventureLab.dll
+C:\SchoolRepos\Forsbergs\TextAdventureLab\bin\Debug\net8.0\TextAdventureLab.pdb
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.sourcelink.json
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.dll
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\refint\TextAdventureLab.dll
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.pdb
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\TextAdventureLab.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\TextAdventureLab\obj\Debug\net8.0\ref\TextAdventureLab.dll

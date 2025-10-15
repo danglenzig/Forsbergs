@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\CharacterCutomization\bin\Debug\net8.0\CharacterCutomization.exe
+C:\SchoolRepos\Forsbergs\CharacterCutomization\bin\Debug\net8.0\CharacterCutomization.deps.json
+C:\SchoolRepos\Forsbergs\CharacterCutomization\bin\Debug\net8.0\CharacterCutomization.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\CharacterCutomization\bin\Debug\net8.0\CharacterCutomization.dll
+C:\SchoolRepos\Forsbergs\CharacterCutomization\bin\Debug\net8.0\CharacterCutomization.pdb
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.sourcelink.json
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.dll
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\refint\CharacterCutomization.dll
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.pdb
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\CharacterCutomization.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\CharacterCutomization\obj\Debug\net8.0\ref\CharacterCutomization.dll
