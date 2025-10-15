@@ -1,0 +1,15 @@
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\bin\Debug\net8.0\CharacterCustomization_V1.exe
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\bin\Debug\net8.0\CharacterCustomization_V1.deps.json
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\bin\Debug\net8.0\CharacterCustomization_V1.runtimeconfig.json
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\bin\Debug\net8.0\CharacterCustomization_V1.dll
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\bin\Debug\net8.0\CharacterCustomization_V1.pdb
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.AssemblyInfoInputs.cache
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.AssemblyInfo.cs
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.csproj.CoreCompileInputs.cache
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.sourcelink.json
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.dll
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\refint\CharacterCustomization_V1.dll
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.pdb
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\CharacterCustomization_V1.genruntimeconfig.cache
+C:\SchoolRepos\Forsbergs\CharacterCustomization_V1\obj\Debug\net8.0\ref\CharacterCustomization_V1.dll
