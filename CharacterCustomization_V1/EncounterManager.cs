@@ -8,8 +8,6 @@ public class EncounterManager
     private List<Character> teamA = new List<Character>();
     private List<Character> teamB = new List<Character>();
     
-    //private Character activeCharacter = null;
-    
     private int teamATurnIdx = -1;
     private int teamBTurnIdx = -1;
     
@@ -25,6 +23,13 @@ public class EncounterManager
         {
             teamB.Add(character);
         }
+    }
+
+    public void StartFighing()
+    {
+        Character attackingCharacter = teamA[0];
+        Character targetCharacter = teamB[0];
+        attackingCharacter.Attack(targetCharacter);
     }
 
     public void TakeTurnRoutine()
@@ -72,7 +77,36 @@ public class EncounterManager
             case 3:
                 break;
         }
-        
-        
     }
+
+    public void ShowTeamInfo(EnumTeam team)
+    {
+        
+        //Console.WriteLine($"Team A size: {teamA.Count}");
+        //Console.WriteLine($"Team B size: {teamB.Count}");
+        
+        
+        
+        
+        switch (team)
+        {
+            case EnumTeam.TEAM_A:
+                foreach (Character character in teamA)
+                {
+                    Console.WriteLine(character.Name+":");
+                    character.ShowInfo();
+                }
+                break;
+            case EnumTeam.TEAM_B:
+                foreach (Character character in teamB)
+                {
+                    Console.WriteLine(character.Name+":");
+                    character.ShowInfo();
+                }
+                break;
+        }
+        
+        Console.WriteLine();
+    }
+    
 }
