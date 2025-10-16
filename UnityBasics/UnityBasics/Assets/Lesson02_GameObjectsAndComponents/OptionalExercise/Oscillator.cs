@@ -1,5 +1,26 @@
 using UnityEngine;
 
+// Stick this on to any game object as a component
+// The value of CurrentValue will cycle between min and max
+// values, based on the configured Amplitute, Period, and Ground
+// e.g. if Amplitude = 10, Period = 1, and Ground = 0, then it will
+// cycle between -5 and +5 every 1 second.
+// The wave type determines how it moves...
+//   Sine: back and forth like a pendulum -- uses Mathf.Sin()
+//   Triangle: back and forth like a billiard ball  -- uses Mathf.PingPong()
+//   Square: alternatesdirectly  between the min and max values,
+//           without going through the values in between
+// Usage example...
+
+//   void Update()
+//        {
+//            float currentOscVal = myOscillator.GetCurrentValue();
+//            Vector3 newPos = new Vector3(0.0f, startPos.y , startPos.z + currentOscVal);
+//            transform.position = newPos;
+//
+//        }
+
+
 namespace GameObjectsAndComponents
 {
     public class Oscillator : MonoBehaviour
@@ -27,7 +48,6 @@ namespace GameObjectsAndComponents
         private bool squareWaveUp = false;
 
 
-        // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
             Period = Mathf.Abs(Period);
@@ -44,7 +64,6 @@ namespace GameObjectsAndComponents
 
         }
 
-        // Update is called once per frame
         void Update()
         {
 
@@ -65,18 +84,11 @@ namespace GameObjectsAndComponents
                 case EnumWaveType.SQUARE:
                     SquareUpdate();
                     break;
-                //case default:
-                //    break;
             }
-
         }
-
 
         void SineUpdate()
         {
-            //float secondsElapsed = Time.time;
-            //float whereInPeriod = Time.time % Period;
-            //float fractionOfPeriod = (Time.time % Period) / Period;
             float angleRadians = ((Time.time % Period) / Period) * Mathf.PI * 2.0f;
             angleRadians -= Mathf.PI / 2.0f; // rotate half a circle, so we start at zero
             float rawSine = Mathf.Sin(angleRadians);
@@ -90,9 +102,7 @@ namespace GameObjectsAndComponents
             float rawTriangle = Mathf.PingPong(Time.time, (Period / 2.0f)) / (Period / 2.0f);
             float distanceFromZero = Amplitude * rawTriangle;
             distanceFromZero -= Amplitude * 0.5f;
-
             distanceFromZero += Ground;
-
             CurrentValue = distanceFromZero;
 
         }
@@ -112,43 +122,12 @@ namespace GameObjectsAndComponents
                 distanceFromGround *= -1;
             }
             squareWaveUp = !squareWaveUp;
-
             CurrentValue = distanceFromGround + Ground;
-
-
         }
 
         public float GetCurrentValue()
         {
             return CurrentValue;
-        }
-
-        public FOOO GetAFOO()
-        {
-
-            FOOO newFOOO = new FOOO(1, 1, 1);
-            return newFOOO;
-
-        }
-
-
-    }
-
-    public class FOOO
-    {
-
-        int health;
-        int age;
-        int level;
-
-        public FOOO(int _health, int _age)
-        {
-
-        }
-
-        public FOOO(int _age, int _healtfh, int _level)
-        {
-
         }
     }
 }

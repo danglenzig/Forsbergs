@@ -48,10 +48,10 @@ namespace GameObjectsAndComponents
                         selectedSphere.SetWaveType(Oscillator.EnumWaveType.TRIANGLE);
                         break;
                     case Oscillator.EnumWaveType.TRIANGLE:
-                        selectedSphere.SetWaveType(Oscillator.EnumWaveType.SQUARE);
+                        selectedSphere.SetWaveType(Oscillator.EnumWaveType.SINE);
                         break;
                     case Oscillator.EnumWaveType.SQUARE:
-                        selectedSphere.SetWaveType(Oscillator.EnumWaveType.SINE);
+                        //selectedSphere.SetWaveType(Oscillator.EnumWaveType.SINE);
                         break;
                 }
                 return;

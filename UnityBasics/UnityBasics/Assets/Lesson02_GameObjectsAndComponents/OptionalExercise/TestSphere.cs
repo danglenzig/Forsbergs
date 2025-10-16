@@ -95,7 +95,8 @@ namespace GameObjectsAndComponents
 
         private string stringifyPeriod(float _period)
         {
-            return _period.ToString();
+            string _string = $"{_period.ToString()}Hz";
+            return _string;
         }
 
         public void SetHighlightQuadVisible(bool _value)
