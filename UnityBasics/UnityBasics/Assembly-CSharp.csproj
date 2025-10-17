@@ -67,6 +67,7 @@
     <Compile Include="Assets\Tools\ResolutionManager.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\ColorChangingCube.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\OptionalExercise\TestSphere.cs" />
+    <Compile Include="Assets\MemoryGame\Scripts\CardSpawner.cs" />
     <Compile Include="Assets\Lesson04_InputAndMovement\NewInputSystem\PlayerInputActions.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\Mover.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\Spinner.cs" />
