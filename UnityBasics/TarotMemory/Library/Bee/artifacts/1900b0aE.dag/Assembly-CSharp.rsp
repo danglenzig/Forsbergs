@@ -417,7 +417,9 @@
 "Assets/Prefabs/Card.cs"
 "Assets/Scenes/TimerTester.cs"
 "Assets/Scripts/CardSpawner.cs"
+"Assets/Scripts/ClickDetector.cs"
 "Assets/Scripts/Dealer.cs"
+"Assets/Scripts/Game.cs"
 -langversion:9.0
 /deterministic
 /optimize+

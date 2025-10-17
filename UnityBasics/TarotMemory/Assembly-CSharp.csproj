@@ -62,7 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CardSpawner.cs" />
+    <Compile Include="Assets\Scripts\ClickDetector.cs" />
     <Compile Include="Assets\Prefabs\Card.cs" />
+    <Compile Include="Assets\Scripts\Game.cs" />
     <Compile Include="Assets\Scenes\TimerTester.cs" />
     <Compile Include="Assets\Scripts\Dealer.cs" />
   </ItemGroup>

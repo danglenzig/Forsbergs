@@ -10,15 +10,17 @@ namespace TarotMemory
 
         [SerializeField] private float rowHeight = 1.75f;
         [SerializeField] private float columnWidth = 1.25f;
+        [SerializeField] private Game game;
 
         private List<GameObject> cards = new List<GameObject>();
 
         private void Start()
         {
+            game.SetAcceptingClickInput(false);
             Transform[] allChildrenTranforms = GetComponentsInChildren<Transform>();
             cards = GetCardList(allChildrenTranforms);
             cards = SetupCards(cards);
-            cards = ShuffleCards(cards);
+            cards = ShuffleCards(cards,3);
             DealCards();
         }
 
@@ -42,21 +44,24 @@ namespace TarotMemory
             foreach (GameObject o in _cards)
             {
                 Card card = o.GetComponent<Card>();
-                card.SetDealer(this);
+                card.SetGame(game);
             }
             return _cards;
         }
 
-        private List<GameObject> ShuffleCards(List<GameObject> _cards)
+        private List<GameObject> ShuffleCards(List<GameObject> _cards, int _repeat)
         {
             // Fisher-Yates Shuffle Algorithm
-            for (int i = _cards.Count -1; i >0; i--)
+            for (int count = 0; count < _repeat; count++)
             {
-               
-                int j = UnityEngine.Random.Range(0, i + 1);
-                GameObject temp = _cards[i];
-                _cards[i] = _cards[j];
-                _cards[j] = temp;
+                for (int i = _cards.Count - 1; i > 0; i--)
+                {
+
+                    int j = UnityEngine.Random.Range(0, i + 1);
+                    GameObject temp = _cards[i];
+                    _cards[i] = _cards[j];
+                    _cards[j] = temp;
+                }
             }
             return _cards;
         }
@@ -91,7 +96,12 @@ namespace TarotMemory
                 cards[i].transform.position = pos3;
                 
             }
+            await Task.Delay(1500);
+            FlipAllCards();
+            game.SetAcceptingClickInput(true);
         }
+
+        
 
         public async void FlipAllCards()
         {
