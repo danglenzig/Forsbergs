@@ -61,14 +61,22 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.2.6f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Lesson04_InputAndMovement\NewInputSystem\PlayerController.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\OptionalExercise\SceneController.cs" />
+    <Compile Include="Assets\Lesson04_InputAndMovement\NewInputSystem\RigidBodyPlayer.cs" />
     <Compile Include="Assets\Tools\ResolutionManager.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\ColorChangingCube.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\OptionalExercise\TestSphere.cs" />
+    <Compile Include="Assets\Lesson04_InputAndMovement\NewInputSystem\PlayerInputActions.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\Mover.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\Spinner.cs" />
+    <Compile Include="Assets\Lesson04_InputAndMovement\LocalVsWorldMovement.cs" />
+    <Compile Include="Assets\Lesson04_InputAndMovement\NewInputSystem\SimplePlayerController.cs" />
+    <Compile Include="Assets\Lesson04_InputAndMovement\NewInputSystem\Player.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\OptionalExercise\Oscillator.cs" />
+    <Compile Include="Assets\Lesson04_InputAndMovement\NewInputSystem\FollowCam.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\OptionalExercise\ParameterizedMover.cs" />
+    <Compile Include="Assets\Lesson04_InputAndMovement\FollowTarget.cs" />
     <Compile Include="Assets\Lesson02_GameObjectsAndComponents\DynamicInteractionCube.cs" />
   </ItemGroup>
   <ItemGroup>
