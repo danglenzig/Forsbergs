@@ -46,7 +46,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e4ac437f4f4d5145823058caa008fc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TarotMemory.Card
-  Value: 5
+  debugMode: 0
+  value: F
+  flipSpeed: 250
 --- !u!1 &6743829565427149163
 GameObject:
   m_ObjectHideFlags: 0

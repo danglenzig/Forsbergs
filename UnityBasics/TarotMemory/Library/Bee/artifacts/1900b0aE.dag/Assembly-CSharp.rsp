@@ -420,6 +420,7 @@
 "Assets/Scripts/ClickDetector.cs"
 "Assets/Scripts/Dealer.cs"
 "Assets/Scripts/Game.cs"
+"Assets/Scripts/UIController.cs"
 -langversion:9.0
 /deterministic
 /optimize+

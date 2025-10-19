@@ -16,7 +16,7 @@ namespace TarotMemory
 
         private void Start()
         {
-            game.SetAcceptingClickInput(false);
+            //game.SetAcceptingClickInput(false);
             Transform[] allChildrenTranforms = GetComponentsInChildren<Transform>();
             cards = GetCardList(allChildrenTranforms);
             cards = SetupCards(cards);
@@ -98,7 +98,12 @@ namespace TarotMemory
             }
             await Task.Delay(1500);
             FlipAllCards();
-            game.SetAcceptingClickInput(true);
+            await Task.Delay(1000);
+            game.StartGame();
+
+            
+
+            //game.SetAcceptingClickInput(true);
         }
 
         

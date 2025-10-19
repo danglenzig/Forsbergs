@@ -6,8 +6,13 @@ namespace TarotMemory
     public class Card : MonoBehaviour
     {
         public bool debugMode = false;
+        public string Value
+        {
+            get => value;
+        }
 
-        public int Value;
+        //public int Value;
+        [SerializeField] private string value = "";
         [SerializeField] private float flipSpeed = 250.0f;
         
 
@@ -15,29 +20,30 @@ namespace TarotMemory
 
         //private Dealer dealer = null;
         private Game game = null;
-        private bool selectable;
-        public bool Selectable
-        {
-            get
-            {
-                return selectable;
-            }
-            set
-            {
-                if (value != selectable)
-                {
-                    selectable = value;
-                }
-            }
-        }
+        //private bool selectable;
+        //public bool Selectable
+        //{
+        //    get
+        //    {
+        //        return selectable;
+        //    }
+        //    set
+        //    {
+        //        if (value != selectable)
+        //        {
+        //            selectable = value;
+        //        }
+        //   }
+        //}
 
 
         private bool beMoving = false;
         private Vector3 moveDest = new Vector3();
 
         private bool beFlipping = false;
+
         private bool _faceUp;
-        private bool faceUp
+        public bool faceUp
         {
             get
             {
@@ -61,7 +67,7 @@ namespace TarotMemory
         private void Start()
         {
             faceUp = true;
-            Selectable = false;
+            //Selectable = false;
             //Debug.Log(transform.rotation.y);
         }
 
@@ -94,10 +100,10 @@ namespace TarotMemory
                     faceUp = !faceUp;
                     beFlipping = false;
 
-                    if (!faceUp)
-                    {
-                        selectable = true;
-                    }
+                    //if (!faceUp)
+                    //{
+                    //    selectable = true;
+                    //}
                     
                 }
                 else
@@ -156,11 +162,11 @@ namespace TarotMemory
             {
                 return;
             }
-            if (!Selectable)
-            {
-                Debug.Log("NOT SELECTABLE!!!!");
-                return;
-            }
+            //if (!Selectable)
+            //{
+            //    Debug.Log("NOT SELECTABLE!!!!");
+            //    return;
+            //}
             game.OnCardClicked(this, !faceUp);
         }
 

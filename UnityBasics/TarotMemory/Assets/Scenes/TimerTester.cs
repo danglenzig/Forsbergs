@@ -5,7 +5,6 @@ using System.Collections.Generic;
 public class TimerTester : MonoBehaviour
 {
 
-    private float elapsed = 0.0f;
     
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -14,16 +13,12 @@ public class TimerTester : MonoBehaviour
 
 
 
-        for (int i = 0; i< 10; i++)
-        {
-            StartCoroutine(WaitThenDo(1.0f));
-            Debug.Log(elapsed);
-        }
+        
     }
 
-    private void Update()
+    private async void TestMethod()
     {
-        elapsed += Time.deltaTime;
+        
     }
 
     private System.Collections.IEnumerator WaitThenDo(float waitTime)
